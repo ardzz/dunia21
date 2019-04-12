@@ -70,8 +70,8 @@ Contoh output
 ```
 ### Mencari Informasi Film
 Base URL : `http://localhost/dunia21/info_film/{slug}` <br>
-Secara default url `https://dunia21.me/how-to-train-your-dragon-the-hidden-world2019/`<br>
-Jadi *slug*nya adalah `how-to-train-your-dragon-the-hidden-world2019`<br>
+Secara default url `https://dunia21.me/how-to-train-your-dragon-the-hidden-world-2019/`<br>
+Jadi *slug*nya adalah `how-to-train-your-dragon-the-hidden-world-2019`<br>
 ##### Rawurl :
 ```
 http://localhost/dunia21/info_film/how-to-train-your-dragon-the-hidden-world-2019
@@ -280,3 +280,4 @@ Contoh output
     }
 ]
 ```
+Fitur lainnya silahkan cek di file `.htaccess`<br>
