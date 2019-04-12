@@ -1,0 +1,7 @@
+RewriteEngine ON
+RewriteRule cari_film/(.*) index.php?cari_film&query=$1 [L]
+RewriteRule info_film/(.*) index.php?info_film&query=$1 [L]
+RewriteRule genre/(.*) index.php?genre&query=$1 [L]
+RewriteRule tahun/(.*) index.php?tahun&query=$1 [L]
+RewriteRule film_populer index.php?film_populer [L]
+RewriteRule film_bluray index.php?film_bluray [L]

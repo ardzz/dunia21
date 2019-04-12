@@ -1,0 +1,18 @@
+{
+    "name": "scraper/dunia21",
+    "description": "API Scraper Dunia21",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Ardhana",
+            "email": "zeebploi212@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+                "Scrape\\": "src/"
+            }
+    }
+}
