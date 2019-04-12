@@ -24,3 +24,20 @@ Jadi *slug*nya adalah `how-to-train-your-dragon-the-hidden-world2019`<br>
 ```
 http://localhost/dunia21/info_film/how-to-train-your-dragon-the-hidden-world-2019
 ```
+#### Film Berdasarkan Genre
+Genre yang ada
+```
+drama, comedy, action, thriller, romance, horror, crime, adventure, 
+mystery, animation, fantasy, sci-fi, family, wrestling, biography, 
+history, war, music, documentary, sport, western, musical, science-fiction, 
+short, film-noir, tv-movie, shounen, school, news, magic, supernatural, mecha, 
+military, historical, foreign, slice-of-life, horor, suspense, psychological, sports, 
+live-action, samurai, erotic, adult, recommend, police, youth, kids, costume, super-power, 
+actin-comedy, detective, investigation, doraemon, movies, oscar-nominated-short-film, mandarin, 
+mature, mistery, omnibus, adventures, time-travel, special, ova, parody, seinen, actiom, shoujo
+```
+Base URL : `http://localhost/dunia21/{genre}`<br>
+##### Rawurl : 
+```
+http://zplo.it/scraper/lk21/genre/animation
+```
