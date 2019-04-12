@@ -9,10 +9,18 @@ Saya menulis kode ini secara *native* dan tidak menggunakan framework
 
 ## Penggunaan :
 * Clone repository ini didalam folder path webserver (misalnya di */var/www/html/*)
-#### Mencari Film ?
+#### Mencari Film
 Base URL : `http://localhost/dunia21/cari_film/{query}` <br>
 Query silahkan diganti dengan judul film yang dicari, contoh<br>
 ```
 http://localhost/dunia21/cari_film/how+to+train+your+dragon
 ```
 URL diatas sudan diencode menjadi rawurl
+#### Mencari Informasi Film
+Base URL : `http://localhost/dunia21/info_film/{slug}` <br>
+Secara default url `https://dunia21.me/how-to-train-your-dragon-the-hidden-world2019/`<br>
+Jadi *slug*nya adalah `how-to-train-your-dragon-the-hidden-world2019`<br>
+##### Rawurl :
+```
+http://localhost/dunia21/info_film/how-to-train-your-dragon-the-hidden-world-2019
+```
