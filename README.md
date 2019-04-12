@@ -285,3 +285,4 @@ Contoh output
 ]
 ```
 Fitur lainnya silahkan cek di file `.htaccess`<br>
+## Jika ada error atau code kurang efisien mohon maaf, saya baru belajar PHP :) 
