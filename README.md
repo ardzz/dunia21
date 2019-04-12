@@ -39,5 +39,5 @@ mature, mistery, omnibus, adventures, time-travel, special, ova, parody, seinen,
 Base URL : `http://localhost/dunia21/{genre}`<br>
 ##### Rawurl : 
 ```
-http://localhost/dunia21/animation
+http://localhost/dunia21/genre/animation
 ```
